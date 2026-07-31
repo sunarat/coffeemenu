@@ -1,4 +1,4 @@
-# Assignment: My First REST API — "Coffee Menu Service"
+# My First REST API — "Coffee Menu Service"
 
 **รายวิชา:** CP353002 — Principles of Software Design and Development  
 **พัฒนาโดย:** Sunarat Budsabong 
